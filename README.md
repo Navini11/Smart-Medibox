@@ -41,6 +41,8 @@ The Smart Medibox helps users adhere to their medication regimens while maintain
 - Push Buttons
 - 10kΩ Resistors
 
+![image](https://github.com/user-attachments/assets/7f1c5ef1-1b38-4f43-b822-88c9c68d2d82)
+
 ### Installation
 
 1. **Clone the Repository:**
