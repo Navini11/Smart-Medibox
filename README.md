@@ -93,7 +93,8 @@ This project originated as a Semester 4 assignment for the EN2853 - Embedded Sys
 
 ## 🎥 Demo video
 
-[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+https://github.com/user-attachments/assets/1137beab-cba0-48df-80ab-6a865d24aaf9
+
 
 ## 🤝 Contributing
 
