@@ -103,8 +103,5 @@ We welcome contributions to enhance the Smart Medibox:
 - **Bug Reports:** Submit issues if you encounter any bugs.
 - **Feature Requests:** Suggest new features or improvements.
 
----
-
-Feel free to customize this README file with your specific details and links.
 
 
